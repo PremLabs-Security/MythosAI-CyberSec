@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+"/>
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License MIT"/>
   <img src="https://img.shields.io/badge/AI-Cybersecurity-orange?style=for-the-badge" alt="AI Cybersecurity"/>
+  <img src="https://github.com/PremLabs-Security/MythosAI-CyberSec/actions/workflows/ci.yml/badge.svg" alt="CI/CD"/>
 </p>
 
 **MythosAI-CyberSec** is an AI-powered cybersecurity assistant designed to help security researchers and analysts identify, analyze, and mitigate digital threats using Large Language Models (LLMs).
